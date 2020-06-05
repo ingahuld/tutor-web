@@ -191,3 +191,8 @@ ggplot(fullAnswerData_auka, aes(x=notaType,fill=svar)) +
 ```
 
 
+
+```{r}
+mean(rnorm(1000, 0, 1))
+```
+
